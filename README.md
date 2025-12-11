@@ -6,5 +6,5 @@ These are my dotfiles for macos.
 
 Just run
 ```
-bash ./setup/install.bash
+bash ./install.bash
 ```
